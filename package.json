@@ -1,0 +1,14 @@
+{
+  "name": "longest-common-prefix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Raul-Ajr/code-assessment.git",
+  "author": "Raul",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
